@@ -1,0 +1,5 @@
+In this practical, I learned how to use Visual Studio Code to create, compile, and run C programs. 
+I practiced creating folders and managing program files. I learned about variables, constants, data types, assignments, arithmetic expressions, and operators. 
+I used comments to improve readability and learned input/output using printf() and scanf(). 
+I also learned how to extend programs step by step and keep multiple versions. 
+Finally, I was introduced to secure programming practices such as input validation and using constants to improve reliability and maintainability.
